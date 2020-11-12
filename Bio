@@ -1,0 +1,31 @@
+Biography of a Software Engineer.
+
+Linus Torvalds was born in Helsinki, Finland on 28 December 1969. 
+His parents were both journalists, and his grandfathers were Leo Tornqvist and Ole Torvalds, a statistician and poet respectively. 
+He attended the University of Helsinki in 1988 till 1996. 
+After his first year of attending, he joined the Finnish army to complete the 11 month mandatory service requirement. 
+He earned the rank of Second Lieutenant, with the artillery observer role. 
+Upon returning to the University of Helsinki, he began reading Andrew Tanenbaum’s book Operating Systems: Design and Implementation, and was introduced to UNIX operating system for the first time. 
+His master thesis was titled Linux: A Portable Operating System. 
+He finished his time in the University of Helsinki with a masters in Computer Science. 
+He began programming at the age of 11 with a Commodore VIC-20 using BASIC, but moved to directly accessing the CPU using machine code. 
+He began modifying his new computer, a Sinclair QL and their operating systems, writing his own assembler and editor “because it was so difficult to get software in Finland”1. 
+He began working on Linux upon the purchase of an Intel 80386 clone of an IBM PC and receiving a copy of MINIX.
+The original prototypes of Linux came out in 1991, with 1.0 releasing on 14 March 1994. 
+After attending a speech by free software icon Richard Stallman speak about his GNU Project, Torvalds began using it in his Linux kernel.
+Torvalds worked for Transmeta from early 1997 until mid-2003. 
+He then moved to Open Source Development Labs, which became the Linux foundation where he continues to work. He now lives in Oregon. 
+His personal mascot of Tux the penguin has been widely adopted by the Linux community as a mascot for the kernel. 
+While Torvalds has been a champion for open source and free software, he received criticism for the use of proprietary software BitKeeper when designing Linux. 
+He then wrote and designed the free version of the same sort of software, which he named Git. 
+Torvalds works full time on improving Linux through sponsorship by the Linux Foundation. 
+This is done by coding significantly less than he used to, but by merging code that should become part of the kernel.
+He still maintains final say on what becomes part of the kernel.
+Despite no longer programming full-time, his code (roughly 2%) represents one of the largests single contributions to the kernel.
+Due to his interest in scuba-diving, he created Subsurface, a software for logging and planning scuba-dives. 
+He has been named by Time magazine as one of the most influential people in the world.
+
+
+
+References:
+1. https://opensource.googleblog.com/2010/09/geek-time-with-linus-torvalds.html, 11/11/20
